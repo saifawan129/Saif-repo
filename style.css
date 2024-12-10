@@ -1,0 +1,24 @@
+.container{
+    background-color: aqua;
+    height: 40vh;
+    width: 30dvw;
+
+}
+.class{
+    background-color: black;
+    height: 45px;
+    width: 34px;
+    animation-name: Saifikanimation;
+    animation-duration: 1s;
+    animation-iteration-count: 5;
+    animation-delay: 2s;
+}
+@keyframes Saifikanimation {
+    form{
+        
+    }
+    to{
+     transform: translateX(1000px);
+    }
+    
+}
